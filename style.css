@@ -1,0 +1,65 @@
+.container {
+    background-color: rgb(43, 40, 36);
+    display: flex;
+    height: 200px;
+    align-items: center;
+    margin: 5% 15%;
+}
+
+.text {
+    color: whitesmoke;
+    text-align: center;
+    margin: 40%;
+    font-weight: 700px;
+    font-size: 40px;
+    box-shadow: 2px 2px 2px 2px;
+}
+
+.new {
+    background-color: teal;
+    font-size: 30px;
+    padding: 10px;
+    color: whitesmoke;
+    box-shadow: 2px 2px 2px 2px rgb(43, 40, 36);
+    border: 1px solid blue;
+    margin-bottom: 10px;
+}
+
+.list {
+    background-color: rgb(230, 52, 7);
+    font-size: 30px;
+    padding: 10px;
+    color: whitesmoke;
+    box-shadow: 2px 2px 2px 2px rgb(43, 40, 36);
+    border: 1px solid blue;
+    margin-bottom: 10px;
+}
+
+.delete {
+    background-color: teal;
+    font-size: 30px;
+    padding: 10px;
+    color: whitesmoke;
+    box-shadow: 2px 2px 2px 2px rgb(43, 40, 36);
+    border: 1px solid blue;
+    margin-bottom: 10px;
+}
+
+.quit {
+    background-color: rgb(230, 52, 7);
+    font-size: 30px;
+    padding: 10px;
+    color: whitesmoke;
+    box-shadow: 2px 2px 2px 2px rgb(43, 40, 36);
+    border: 1px solid blue;
+    margin-bottom: 10px;
+}
+
+.guide {
+    background-color: rgb(153, 141, 125);
+    display: flex block;
+    height: 200px;
+    align-items: center;
+    margin: 5% 15%;
+    text-align: center;
+}
